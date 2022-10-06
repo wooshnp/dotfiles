@@ -1,0 +1,4 @@
+tabliss
+ublock-origin
+privacy-badger
+https-everywhere
