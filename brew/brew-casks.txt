@@ -1,0 +1,15 @@
+iterm2
+rectangle
+alt-tab
+firefox-developer-edition
+app-cleaner
+discord
+slack
+vlc
+visual-studio-code
+sublime-text
+postman
+cyberduck
+notion
+figma
+docker
