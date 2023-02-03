@@ -1,5 +1,7 @@
-[user]
-	name = wooshnp
-	email = [insert_email_here]@gmail.com
+[includeIf "gitdir:~/Developer/projects/"]
+    path = ~/.git-personal.conf
+[includeIf "gitdir:~/Developer/projects_timwe/"]
+    path = ~/.git-work.conf
+
 [core]
-	editor = nano
+excludesfile = ~/.gitignore      # valid everywhere
